@@ -3,7 +3,7 @@ package com.lti.model;
 public class Employee {
 	private int employeeId;
 	private String employeeName;
-	
+
 	public Employee() {
 		// TODO Auto-generated constructor stub
 	}
@@ -23,6 +23,4 @@ public class Employee {
 	public void setEmployeeName(String employeeName) {
 		this.employeeName = employeeName;
 	}
-	
-	
 }
